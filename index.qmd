@@ -1,0 +1,16 @@
+%![](r_fly.jpg){width=50%}
+
+# Welcome {.unnumbered}
+
+
+
+## Important information {.unnumbered}
+
+Csenge + Lapo 2024
+
+2024 sept 14
+
+Csillagkert, Budapest, Magyarorszag
+
+![Using the salinity refractometer](micro_photos/included/salinity_check.jpg){#fig-salinity-filling}
+
