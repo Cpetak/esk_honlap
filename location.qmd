@@ -6,4 +6,15 @@ editor_options:
 
 ## Csillagkert {.unnumbered}
 
-![Using the salinity refractometer](micro_photos/included/salinity_check.jpg){#fig-salinity-filling}
+### Address
+
+Budapest, Feketefej u. 2, 1029 Hungary
+
+http://www.csillagkertbudapest.hu/
+
+![](images/csillag1.jpg){#cs1}
+![](images/csillag2.jpg){#cs2}
+
+### Map
+
+![](images/map.png){#map1}
