@@ -10,11 +10,16 @@ editor_options:
 
 Budapest, Feketefej u. 2, 1029 Hungary
 
-http://www.csillagkertbudapest.hu/
+![](images/map.png){#map1}
+
+<http://www.csillagkertbudapest.hu/>
+
+### Pictures
 
 ![](images/csillag1.jpg){#cs1}
+![](images/csillag4.jpeg){#cs2}
+![](images/csillag3.jpeg){#cs2}
 ![](images/csillag2.jpg){#cs2}
+![](images/csillag5.jpg){#cs2}
 
-### Map
 
-![](images/map.png){#map1}
