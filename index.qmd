@@ -2,7 +2,19 @@
 
 # Welcome {.unnumbered}
 
+::: {.column-margin}
+![Surus](images/meghivo_deko.png){#fig-surus}
 
+:::
+
+<style>
+  body {
+  background-image: images/meghivo_deko.png;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+  
+</style>
 
 ## Important information {.unnumbered}
 
