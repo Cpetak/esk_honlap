@@ -4,20 +4,34 @@
     "href": "index.html",
     "title": "Lapo + Csenge",
     "section": "",
-    "text": "Welcome"
+    "text": "This is the first question?"
   },
   {
     "objectID": "index.html#important-information",
     "href": "index.html#important-information",
-    "title": "Lapo + Csenge",
-    "section": "Important information",
-    "text": "Important information\nCsenge + Lapo 2024\n2024 sept 14\nCsillagkert, Budapest, Magyarorszag"
+    "title": "Welcome",
+    "section": "",
+    "text": "Csenge + Lapo 2024\n2024 sept 14\nCsillagkert, Budapest, Magyarorszag"
   },
   {
     "objectID": "location.html",
     "href": "location.html",
-    "title": "Csillagkert",
+    "title": "Lapo + Csenge",
     "section": "",
-    "text": "Address\nBudapest, Feketefej u. 2, 1029 Hungary\n\nhttp://www.csillagkertbudapest.hu/\n\n\nPictures"
+    "text": "Budapest, Feketefej u. 2, 1029 Hungary\n\nhttp://www.csillagkertbudapest.hu/"
+  },
+  {
+    "objectID": "location.html#csillagkert",
+    "href": "location.html#csillagkert",
+    "title": "Lapo + Csenge",
+    "section": "",
+    "text": "Budapest, Feketefej u. 2, 1029 Hungary\n\nhttp://www.csillagkertbudapest.hu/"
+  },
+  {
+    "objectID": "index.html#september-14",
+    "href": "index.html#september-14",
+    "title": "Lapo + Csenge",
+    "section": "",
+    "text": "This is the first question?"
   }
 ]

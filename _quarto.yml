@@ -1,14 +1,16 @@
 project:
-  type: book
+  type: website
   output-dir: docs
 
-book:
+website:
   title: "Lapo + Csenge"
-  author: "Csenge Petak"
-  date: "2024"
-  chapters:
-    - index.qmd
-    - location.qmd
+  navbar:
+    background: transparent
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Location
+        href: location.qmd
 
 from: markdown+emoji
 

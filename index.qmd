@@ -1,29 +1,26 @@
 ---
 format: html
+css: styles.css
 ---
 
-# Welcome {.unnumbered}
-
-::: {.column-margin}
-![Surus](images/meghivo_deko.png){#fig-surus}
-
-:::
+# Lapo + Csenge {.test1}
 
 <style>
   body {
-  background-image: url("https://www.dropbox.com/scl/fi/wkma4l3ubchwk7faoscxe/test_blue1.png?rlkey=i0c6ccaebygi5okuzkxoyqy89&dl=0");
+  background-image: url("https://raw.githubusercontent.com/Cpetak/esk_honlap/main/images/test_blue1.png");
   background-size: cover;
   background-repeat: no-repeat;
 }
   
 </style>
 
-## Important information {.unnumbered}
-
-Csenge + Lapo 2024
-
-2024 sept 14
-
-Csillagkert, Budapest, Magyarorszag
+## 2024 september 14 {.test2}
 
 
+### Csillagkert, Budapest, Magyarorszag {.test3}
+
+<p class="bottom-space">
+   
+</p>
+
+![](images/mySketch.gif){width=300 fig-align="center"}
