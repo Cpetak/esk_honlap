@@ -10,9 +10,16 @@ editor_options:
 
 Budapest, Feketefej u. 2, 1029 Hungary
 
-![](images/map.png){#map1}
-
 <http://www.csillagkertbudapest.hu/>
+
+```{r, echo=FALSE}
+library(leaflet)
+leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=18.936203271723357, lat=47.5415102394497, popup="The birthplace of R")
+```
+
+
 
 ### Pictures
 

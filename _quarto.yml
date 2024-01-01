@@ -11,6 +11,8 @@ website:
         href: index.qmd
       - text: Location
         href: location.qmd
+      - text: RSVP
+        href: rsvp.qmd
 
 from: markdown+emoji
 
