@@ -13,6 +13,8 @@ website:
         href: location.qmd
       - text: Info
         href: info.qmd
+      - text: Attractors
+        href: attract.qmd
 
 from: markdown+emoji
 
