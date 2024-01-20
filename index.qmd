@@ -8,7 +8,7 @@ css: styles.css
 <style>
   body {
   background-image: url("https://raw.githubusercontent.com/Cpetak/esk_honlap/main/images/test_blue1.png");
-  background-size: 100% 100%;
+  background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
 }
