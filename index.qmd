@@ -3,17 +3,21 @@ format: html
 css: styles.css
 ---
 
-# Lapo + Csenge {.test1}
-
 <style>
   body {
-  background-image: url("https://raw.githubusercontent.com/Cpetak/esk_honlap/main/images/test_blue2.png");
+  background-image: url("https://raw.githubusercontent.com/Cpetak/esk_honlap/main/images/test_blue1.png");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
 }
   
 </style>
+
+<p class="bottom-space">
+   
+</p>
+
+# Lapo + Csenge {.test1}
 
 ### 2024 september 14 {.test3}
 
