@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Lapo + Csenge"
+  title: "Csenge + Lapo"
   navbar:
     background: transparent
     left:
@@ -13,8 +13,10 @@ website:
         href: location.qmd
       - text: Info
         href: info.qmd
-      - text: Attractors
-        href: attract.qmd
+      - text: RSVP HU
+        href: rsvp_hu.qmd
+      - text: RSVP IT
+        href: rsvp_it.qmd
 
 from: markdown+emoji
 
