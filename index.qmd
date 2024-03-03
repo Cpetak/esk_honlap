@@ -1,12 +1,13 @@
 ---
 format: html
 css: styles.css
+fig-cap-location: top
 ---
 
-::: {layout-ncol="2"}
+::: {layout-ncol=2}
 
-[![](images/hun.png){fig-alt="Magyar" width=300}](https://cpetak.github.io/esk_honlap_HU/)
+![[Magyar](https://cpetak.github.io/esk_honlap_HU/)](images/hun.png)
 
-[![](images/it.png){fig-alt="Italiano" width=250}](https://cpetak.github.io/esk_honlap_IT/)
+![[Italiano](https://cpetak.github.io/esk_honlap_IT/)](images/it.png)
 
 :::
