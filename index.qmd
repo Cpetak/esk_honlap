@@ -3,30 +3,10 @@ format: html
 css: styles.css
 ---
 
-<style>
-  body {
-  background-image: url("https://raw.githubusercontent.com/Cpetak/esk_honlap/main/images/test_blue3_wtext.png");
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: center;
-}
-  
-</style>
+::: {layout-ncol="2"}
 
-<p class="bottom-space">
-   
-</p>
+[![](images/hun.png){fig-alt="Magyar" width=300}](https://cpetak.github.io/esk_honlap_HU/)
 
-# Csenge + Lapo {.test1}
+[![](images/it.png){fig-alt="Italiano" width=250}](https://cpetak.github.io/esk_honlap_IT/)
 
-### 2024 september 14 {.test3}
-
-
-### Csillagkert, Budapest, Hungary {.test3}
-
-
-
-<p class="bottom-space">
-   
-</p>
-
+:::
