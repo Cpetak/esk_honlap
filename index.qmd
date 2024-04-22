@@ -11,3 +11,5 @@ fig-cap-location: top
 ![[Italiano](https://cpetak.github.io/esk_honlap_IT/)](images/it.png)
 
 :::
+
+![[English](https://cpetak.github.io/esk_honlap_EN/)](images/ukus.jpg){width=40% fig-align="left"}
